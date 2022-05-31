@@ -1,8 +1,6 @@
 # Extended JAIN SLEE
 
-The Extended jain slee tftp is cloned from JAIN SLEE
-- ```https://github.com/PAiC-BD-Sales/jain-slee-tftp.git```
-from which they have added a set of improvements and new.
+The Extended jain slee tftp is cloned from JAIN SLEE [https://github.com/PAiC-BD-Sales/jain-slee-tftp.git](https://github.com/PAiC-BD-Sales/jain-slee-tftp.git) from which they have added a set of improvements and new.
 
 ## Introduction
 
@@ -15,9 +13,7 @@ Ensure that the following requirements have been met before continuing with the 
 ## Pre-Requisites for Building from Source
 ```
 - Git Client: Instructions for using GIT, including install, can be found at http://git-scm.com/book
-
 - Maven 3.2.X: Instructions for using Maven, including install, can be found at http://maven.apache.org/
-
 - JDK 11 or Higher
 ```
 Git is used to manage Restcomm JAIN SLEE source code. 
