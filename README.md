@@ -1,4 +1,4 @@
-# Extended JAIN SLEE
+# Extended JAIN SLEE TFTP
 
 The Extended jain slee tftp is cloned from JAIN SLEE [https://github.com/PAiC-BD-Sales/jain-slee-tftp.git](https://github.com/PAiC-BD-Sales/jain-slee-tftp.git) from which they have added a set of improvements and new.
 
@@ -6,7 +6,7 @@ The Extended jain slee tftp is cloned from JAIN SLEE [https://github.com/PAiC-BD
 
 Open Source Extended Jain slee allows applications to communicate with legacy communications, providing means to execute statements in asynchronous fashion.statements are executed in the RA runtime resources, freeing the JAIN SLEE Event Router from the burden of having its executors (threads) resources blocked by interactions with  Datasources, and results are provided to applications through JAIN SLEE events. The JAIN SLEE application is also completely free from having to manage connection closings.
 
-## Build Extended JAIN SLEE 
+## Build Extended JAIN SLEE TFTP
 
 Ensure that the following requirements have been met before continuing with the install.  The hardware requirements don't differ from the underlying JAIN SLEE requirements, refer to its documentation for further information. The JAIN SLEE requires JAIN SLEE properly set.
 
